@@ -2,7 +2,7 @@
 
 If you're searching for a dedicated front-end developer who can transform your creative ideas into stunning web applications, you've come to the right place. 👨‍💻
 
-I'm Haris, a highly motivated software architect with over 6 years of professional experience and more than 8 years of programming expertise, specializing in the field of web development. ⚡
+I'm Haris, a highly motivated software engineer with over 6 years of professional experience and more than 8 years of programming expertise, specializing in the field of web development. ⚡
 
 ## 🔥 Top 2 Achievements:
 
